@@ -1,0 +1,35 @@
+nav,
+footer {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+nav {
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.hero {
+    text-align: center;
+    margin-top: 25vh;
+}
+
+.btn-sign {
+    background-color: blue;
+    color: white;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
